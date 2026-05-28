@@ -18,6 +18,24 @@ minimal unified-diff baseline:
 This is a representation-level acceleration result. It does not claim that the
 transformer emits raw tokens faster.
 
+## Key Figures
+
+### Validated Artifact Throughput
+
+![Validated artifact throughput](paper/figures/artifact_throughput.png)
+
+### Paired Per-Example Speedups
+
+![Paired per-example speedups](paper/figures/paired_speedups.png)
+
+### Token Accounting
+
+![Token accounting](paper/figures/token_accounting.png)
+
+### Episode Latency
+
+![Episode latency](paper/figures/latency.png)
+
 ## Archived Release
 
 Version `0.1.0` is archived on Zenodo:
