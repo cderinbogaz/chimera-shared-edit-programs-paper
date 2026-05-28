@@ -1,4 +1,4 @@
-# Chimera Shared Edit Programs Paper
+# Stop Generating the Code You Already Have: Chimera Shared Edit Programs for Faster Long-Context Code Editing
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20428058.svg)](https://doi.org/10.5281/zenodo.20428058)
 
