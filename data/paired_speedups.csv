@@ -1,0 +1,11 @@
+baseline,treatment,metric,paired_records,mean_speedup,median_speedup,ci95_low,ci95_high
+normal unified diff,normal shared edit program,artifact_tokens_per_s,50,1.7792090378230314,1.4679004358597105,1.5609925901608626,2.0202324389561417
+normal unified diff,normal shared edit program,model_output_tokens_per_s,50,0.681983810196829,0.5566594896114885,0.5992802832501258,0.7737807922170072
+MTP unified diff,MTP shared edit program,artifact_tokens_per_s,50,1.4255145475005586,1.25388299660479,1.2623892143193027,1.609780187645312
+MTP unified diff,MTP shared edit program,model_output_tokens_per_s,50,0.5478331697575026,0.4654250404444304,0.48450339480408006,0.6194657649272941
+normal unified diff,MTP unified diff,artifact_tokens_per_s,50,1.0563744938483905,1.1188198573764638,0.9960520643046192,1.1061275549970866
+normal unified diff,MTP unified diff,model_output_tokens_per_s,50,1.0563744938483905,1.1188198573764638,0.9960520643046192,1.1061275549970866
+normal unified diff,MTP shared edit program,artifact_tokens_per_s,50,1.5152622736879466,1.4171655618254435,1.3237309029423894,1.7267238167114896
+normal unified diff,MTP shared edit program,model_output_tokens_per_s,50,0.5829584768784406,0.5279370407503896,0.5088450021861,0.6643661333629999
+MTP depth 2 shared edit program,MTP depth 6 shared edit program,artifact_tokens_per_s,50,0.9182477046073412,0.9667256989933479,0.8630751355543265,0.9679480554293126
+MTP depth 2 shared edit program,MTP depth 6 shared edit program,model_output_tokens_per_s,50,0.9182477046073411,0.9667256989933479,0.8630751355543265,0.9679480554293126

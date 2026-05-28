@@ -1,0 +1,13 @@
+.venv/
+paper/*.aux
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/*.toc
+paper/*.xdv
+paper/figures/*.png
+__pycache__/
+.DS_Store

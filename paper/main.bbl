@@ -1,0 +1,50 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gloeckle et~al.(2024)Gloeckle, Idrissi, Roziere, Lopez-Paz, and
+  Synnaeve]{gloeckle2024mtp}
+Fabian Gloeckle, Badr~Youbi Idrissi, Baptiste Roziere, David Lopez-Paz, and
+  Gabriel Synnaeve.
+\newblock Better \& faster large language models via multi-token prediction.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}, 2024.
+\newblock URL \url{https://proceedings.mlr.press/v235/gloeckle24a.html}.
+
+\bibitem[Kwon et~al.(2023)Kwon, Li, Zhuang, Sheng, Zheng, Yu, Gonzalez, Zhang,
+  and Stoica]{kwon2023pagedattention}
+Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody~Hao Yu,
+  Joseph~E. Gonzalez, Hao Zhang, and Ion Stoica.
+\newblock Efficient memory management for large language model serving with
+  pagedattention.
+\newblock \emph{arXiv preprint arXiv:2309.06180}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2309.06180}.
+
+\bibitem[Leviathan et~al.(2023)Leviathan, Kalman, and
+  Matias]{leviathan2023speculative}
+Yaniv Leviathan, Matan Kalman, and Yossi Matias.
+\newblock Fast inference from transformers via speculative decoding.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, pages 19274--19286, 2023.
+\newblock URL \url{https://proceedings.mlr.press/v202/leviathan23a.html}.
+
+\bibitem[{LongCodeBench Authors}(2025)]{longcodebench2025}
+{LongCodeBench Authors}.
+\newblock Longcodebench: Evaluating coding llms at 1m context windows.
+\newblock \emph{arXiv preprint arXiv:2505.07897}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2505.07897}.
+
+\bibitem[{Qwen Team}(2026)]{qwen36fp8}
+{Qwen Team}.
+\newblock {Qwen/Qwen3.6-35B-A3B-FP8}.
+\newblock \url{https://huggingface.co/Qwen/Qwen3.6-35B-A3B-FP8}, 2026.
+
+\bibitem[{vLLM Project}(2026)]{vllm}
+{vLLM Project}.
+\newblock {vLLM}: Easy, fast, and cheap llm serving.
+\newblock \url{https://github.com/vllm-project/vllm}, 2026.
+
+\end{thebibliography}
