@@ -1,0 +1,28 @@
+{
+  "title": "Chimera Shared Edit Programs for Faster Long-Context Code Editing",
+  "upload_type": "software",
+  "description": "Reproducible paper artifacts, figures, and summary benchmark data for Chimera shared edit programs, a representation-level acceleration approach for long-context code-editing inference. On 50 deterministic LongCodeBench-derived 100K-context file-edit episodes, Chimera improves validated artifact throughput by 1.78x over normal vLLM unified diff and by 1.43x over an MTP-enabled unified-diff baseline.",
+  "creators": [
+    {
+      "name": "Derinbogaz, Ceyhun"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "LLM inference",
+    "code editing",
+    "vLLM",
+    "multi-token prediction",
+    "long-context inference",
+    "edit programs"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/cderinbogaz/chimera-shared-edit-programs-paper",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "version": "0.1.0"
+}
