@@ -1,4 +1,5 @@
 .venv/
+dist/
 paper/*.aux
 paper/*.blg
 paper/*.fdb_latexmk

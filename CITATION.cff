@@ -7,8 +7,9 @@ authors:
     given-names: "Ceyhun"
 version: "0.1.0"
 date-released: "2026-05-28"
+doi: "10.5281/zenodo.20428058"
 repository-code: "https://github.com/cderinbogaz/chimera-shared-edit-programs-paper"
-url: "https://github.com/cderinbogaz/chimera-shared-edit-programs-paper"
+url: "https://doi.org/10.5281/zenodo.20428058"
 license: MIT
 abstract: >
   Reproducible paper artifacts, figures, and summary benchmark data for Chimera

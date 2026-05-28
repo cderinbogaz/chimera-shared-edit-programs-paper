@@ -1,5 +1,7 @@
 # Chimera Shared Edit Programs Paper
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20428058.svg)](https://doi.org/10.5281/zenodo.20428058)
+
 This repository contains a LaTeX paper draft, reproducible figures, and summary
 data for the Chimera shared edit-program experiments.
 
@@ -15,6 +17,14 @@ minimal unified-diff baseline:
 
 This is a representation-level acceleration result. It does not claim that the
 transformer emits raw tokens faster.
+
+## Archived Release
+
+Version `0.1.0` is archived on Zenodo:
+
+- DOI: [`10.5281/zenodo.20428058`](https://doi.org/10.5281/zenodo.20428058)
+- Zenodo record: <https://zenodo.org/records/20428058>
+- GitHub release: <https://github.com/cderinbogaz/chimera-shared-edit-programs-paper/releases/tag/v0.1.0>
 
 ## Repository Layout
 
